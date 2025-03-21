@@ -5,6 +5,7 @@ Automate the generation of PDF documents containing comprehensive python study n
 
 ## Tools & Library Used
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## Preview
 <img width="223" alt="image" src="https://github.com/user-attachments/assets/e58033d8-6c86-4e31-bb69-6f0e9a59f79f" />
